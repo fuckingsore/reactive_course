@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DLMTask3Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-05T10:03:31" hostname="DESKTOP-MPOU9OU" time="0.433">
+  <properties/>
+  <testcase name="testSolution()" classname="DLMTask3Tests" time="0.433"/>
+  <system-out><![CDATA[12:03:31.439 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+12:03:31.442 [Test worker] DEBUG reactor.core.publisher.Hooks - Hooking onEachOperator: DLMTask3Tests$$Lambda$364/0x0000000100227540@40844aab
+12:03:31.529 [Test worker] DEBUG io.micrometer.core.util.internal.logging.InternalLoggerFactory - Using SLF4J as the default logging framework
+12:03:31.591 [Test worker] INFO After PublisherOn - | onSubscribe([Fuseable] FluxPublishOn.PublishOnSubscriber)
+12:03:31.594 [Test worker] INFO After PublisherOn - | request(unbounded)
+12:03:31.644 [single-1] INFO After PublisherOn - | onNext(0)
+12:03:31.644 [single-1] INFO After PublisherOn - | onNext(1)
+12:03:31.659 [single-1] INFO After PublisherOn - | onNext(2)
+12:03:31.675 [single-1] INFO After PublisherOn - | onNext(3)
+12:03:31.675 [single-1] INFO After PublisherOn - | onNext(4)
+12:03:31.690 [single-1] INFO After PublisherOn - | onNext(5)
+12:03:31.707 [single-1] INFO After PublisherOn - | onNext(6)
+12:03:31.707 [single-1] INFO After PublisherOn - | onNext(7)
+12:03:31.722 [single-1] INFO After PublisherOn - | onNext(8)
+12:03:31.722 [single-1] INFO After PublisherOn - | onNext(9)
+12:03:31.723 [single-1] INFO After PublisherOn - | cancel()
+12:03:31.790 [Test worker] DEBUG reactor.core.publisher.Hooks - Reset to factory defaults : onEachOperator
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

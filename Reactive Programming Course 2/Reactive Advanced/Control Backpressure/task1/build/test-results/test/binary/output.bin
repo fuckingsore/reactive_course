@@ -1,0 +1,7 @@
+W11:04:10.162 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+f11:04:10.190 [Test worker] DEBUG reactor.core.publisher.Hooks - Hooking new default : onErrorDropped
+e11:04:10.190 [Test worker] DEBUG reactor.core.publisher.Hooks - Hooking new default : onNextDropped
+·11:04:10.190 [Test worker] DEBUG reactor.core.publisher.Hooks - Hooking onOperatorError: reactor.test.DefaultStepVerifierBuilder$HookRecorder$$Lambda$369/0x0000000100260000@6b44435b
+k11:04:10.202 [Test worker] DEBUG reactor.core.publisher.Hooks - Reset to factory defaults : onNextDropped
+l11:04:10.202 [Test worker] DEBUG reactor.core.publisher.Hooks - Reset to factory defaults : onErrorDropped
+m11:04:10.202 [Test worker] DEBUG reactor.core.publisher.Hooks - Reset to factory defaults : onOperatorError

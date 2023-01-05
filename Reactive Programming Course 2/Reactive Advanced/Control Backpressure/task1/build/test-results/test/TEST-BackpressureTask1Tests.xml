@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BackpressureTask1Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-05T09:04:10" hostname="DESKTOP-MPOU9OU" time="0.176">
+  <properties/>
+  <testcase name="mergeSeveralSourcesTest()" classname="BackpressureTask1Tests" time="0.176"/>
+  <system-out><![CDATA[11:04:10.162 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+11:04:10.190 [Test worker] DEBUG reactor.core.publisher.Hooks - Hooking new default : onErrorDropped
+11:04:10.190 [Test worker] DEBUG reactor.core.publisher.Hooks - Hooking new default : onNextDropped
+11:04:10.190 [Test worker] DEBUG reactor.core.publisher.Hooks - Hooking onOperatorError: reactor.test.DefaultStepVerifierBuilder$HookRecorder$$Lambda$369/0x0000000100260000@6b44435b
+11:04:10.202 [Test worker] DEBUG reactor.core.publisher.Hooks - Reset to factory defaults : onNextDropped
+11:04:10.202 [Test worker] DEBUG reactor.core.publisher.Hooks - Reset to factory defaults : onErrorDropped
+11:04:10.202 [Test worker] DEBUG reactor.core.publisher.Hooks - Reset to factory defaults : onOperatorError
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

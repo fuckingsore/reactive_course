@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CommonOperatorsTask6Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-04T12:24:29" hostname="DESKTOP-MPOU9OU" time="0.178">
+  <properties/>
+  <testcase name="testSolution()" classname="CommonOperatorsTask6Tests" time="0.178"/>
+  <system-out><![CDATA[14:24:29.138 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
